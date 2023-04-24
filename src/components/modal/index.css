@@ -7,7 +7,7 @@
   background-color: rgb(32, 61, 100);
   position: fixed;
   top: -60px;
-  left: 21vw;
+  left: calc(50vw - 110px);
   z-index: 3;
   text-align: center;
   transition: all 0.35s ease;
